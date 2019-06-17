@@ -23,9 +23,9 @@ La interactividad de los mapas presentados ayudan al lector a hacer sus propias 
 
 Para la realización de este trabajo Obtuvieron diferentes clases de datos, los cuales fueron desde tabla de datos hasta poligonos de las placas tectónicas de la tierra, dicha información geogáfica fue complementada con registros históricos de periodicos que por su descripción permiten su localización espacial y temporal. Las fuentes de información fueron: 
 
-https://www.datos.gov.co/Ambiente-y-Desarrollo-Sostenible/Precipitaci-n-Media-Total-Anual-Promedio-Multianua/2bm3-399z 
+https://data.humdata.org/dataset?tags=shapefiles
 
-Catalogo nacional de estaciones metereológicas: https://www.datos.gov.co/Ambiente-y-Desarrollo-Sostenible/Cat-logo-Nacional-de-Estaciones-del-IDEAM/hp9r-jxuu/data
+Catalogo nacional de sismos de Servicio Geológico Colombiano: https://www2.sgc.gov.co/sgc/sismos/Paginas/catalogo-sismico.aspx  
 
 
 ## 4. Descripción del procesamiento realizado a los datos (ejm: transformaciones, filtros, geoprocesamiento, etc)
